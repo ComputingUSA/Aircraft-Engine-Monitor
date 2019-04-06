@@ -1,2 +1,2 @@
 # Aircraft-Engine-Monitor
-Monitors cylinder &amp; exhaust thermocouples and displays results with Arduino &amp; LCD hardware
+Monitors piston aircraft engine cylinder &amp; exhaust thermocouples and displays results with Arduino &amp; LCD hardware
