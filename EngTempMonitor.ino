@@ -1,4 +1,4 @@
-p// EGT/CHT Monitor for my aircraft engine
+// EGT/CHT Monitor for my aircraft engine
 // Hardware: Arduino Nano, AVR ISP
 // 2017-07-27 Last revision (Rewrote startup message)
 
